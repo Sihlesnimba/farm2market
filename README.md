@@ -4,7 +4,7 @@ Farm2Market is a full-stack MERN (MongoDB, Express, React, Node.js) web applicat
 
 ## 🚀 Live Demo
 
-> _\[Add your Netlify or Render link here once deployed]_
+> https://farm2marketagritech.netlify.app/
 
 ---
 
